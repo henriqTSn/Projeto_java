@@ -16,7 +16,7 @@ public class ConexaoDB {
             String URL = "jdbc:postgresql://localhost:5432/cliente";
             //conexão em casa
             String USER = "postgres";
-            String PASSWORD = "99877832";
+            String PASSWORD = "";
             //conexão umc
             //String USER = "postgres";
             //String PASSWORD = "";

@@ -17,7 +17,7 @@ public class ConexaoDB {
             //conexão em casa
             String USER = "postgres";
             String PASSWORD = "";
-            //conexão umc
+            //conexão faculdade
             //String USER = "postgres";
             //String PASSWORD = "";
             
